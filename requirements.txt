@@ -1,4 +1,5 @@
 wheel
+ipykernel
 numpy
 pandas
 scipy
